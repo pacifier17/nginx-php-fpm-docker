@@ -6,4 +6,4 @@ This is a nginx, php, fpm base running on the [debian](https://hub.docker.com/_/
 ### Versioning
 | Docker Tag | Git Release Tag | Nginx Version | PHP Version | Debian Version |
 |-----|-------|-----|--------|--------|
-| php73-buster | php73-buster | 1.17.9 | 7.3.19 | buster |
+| php73-buster | php73-buster | 1.17.9 | 7.3.20 | buster |
